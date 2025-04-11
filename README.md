@@ -2,7 +2,15 @@
 
 A web application that allows users to share their life stories, either as registered users or as guests.
 
+Life Stories: Home Page
+
 ![image](https://github.com/user-attachments/assets/36a507da-1deb-448b-82ce-273acdbc6d26)
+
+Life Stories: Guest Story Writing Page
+
+![image](https://github.com/user-attachments/assets/f2cfc15b-9dbb-4915-af3d-11be587027b1)
+
+Life Stories: Story Reading Page
 
 ## Project Structure
 
