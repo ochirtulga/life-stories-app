@@ -2,6 +2,8 @@
 
 A web application that allows users to share their life stories, either as registered users or as guests.
 
+![image](https://github.com/user-attachments/assets/36a507da-1deb-448b-82ce-273acdbc6d26)
+
 ## Project Structure
 
 ### Frontend (React)
